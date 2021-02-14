@@ -1,1 +1,1 @@
-[Mini-Project](https://daskeete.github.io/Mini-Project/)
+[Mini-Project](https://daskeete.github.io/mini-project/)
